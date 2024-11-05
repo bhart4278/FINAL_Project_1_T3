@@ -19,10 +19,14 @@ Group 3 Members: Oana Wright, Frank Guerra, Zach Hooks, Aislinn Yeidel, Brian Ha
       - Median income is one variable that may indicate a person is more likely to own or purchase an electric vehicle. Higher incomes correlate to higher rates of electric vehicle ownership because electric vehicles are on average more expensive than gasoline vehicles, making them harder to access for people who have lower incomes.
 
   - III. Correlation of EV count per county and population size
-    - Cities/counties with larger population sizes tend to have a higher population of EV owning citizens. Specifically larger, more densely populated counties have higher rates of electric vehicle ownership. There are a few factors that influence this, including one that has been already discussed: income. It is shown in the datas set that the largest counties (population) in Washington also have the highest median income, which is related to EV ownership. However, it can also be speculated that people in smaller, less densely populated counties choose not to own an electric vehicle due to its known unreliability in areas with poor internet connection, or the lack of charging stations available in those smaller counties. Further analasis would be needed in order to verify these hypotheses.
+    - Cities/counties with larger population sizes tend to have a higher population of EV owning citizens. Specifically larger, more densely populated counties have higher rates of electric vehicle ownership. There are a few factors that influence this, including one that has been already discussed: income. It is shown in the data set that the largest counties (population) in Washington also have the highest median income, which is related to EV ownership. However, it can also be speculated that people in smaller, less densely populated counties choose not to own an electric vehicle due to its known unreliability in areas with poor internet connection, or the lack of charging stations available in those smaller counties. Further analasis would be needed in order to verify these hypotheses.
   
-  - IV.
-  
+  - IV. Map and Bar Graph of EVs by County
+    - EVs Across Washington State (Map)
+      - The map shows a concetration of EVs near cities with larger populations such as Seattle, Spokane, Vancouver, and Tacoma and smaller cities that are next to larger cities.
+    - EVs in the State of Washington by County (Bar Graph)
+      - Based on the data shown in the bar graph there is a clear winner (for the lack of a better word) for the county with the most EVs - King County. Seattle, being the largest city by population and land area in Washingston State, is one of the many cities within the borders of King County.
+
   - V. Correlation of EVs by city & EV charge stations by city
     - Top 10 Cities: EVs per Charging Station
       - Seattle leads in EV-to-charging-station ratios, with each station supporting 33,944.52 EVs, followed by Bellevue with 10,414 EVs per station and Vancouver with 7,577 EVs per station. These high ratios imply that while Seattle has many connectors, its stations still face significant demand, likely leading to congestion. Bellevue and Vancouver are also under pressure, as the high EV counts per station show potential for bottlenecks, especially during peak usage times. This underscores a need for additional stations or faster-charging options, particularly in these high-density cities, to reduce wait times and enhance accessibility for EV drivers.
@@ -40,7 +44,7 @@ This rapid expansion likely stems from several factors: technological advancemen
 
 
 Data Sources:
-- Electric Vehicle Populatio Data: https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69
+- Electric Vehicle Population Data: https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69
 - Electric Vehicle Title and Registration Activity: https://catalog.data.gov/dataset/electric-vehicle-title-and-registration-activity/resource/d045f505-3b06-4471-953c-1a754c295a9c
 - Alternative Fuels Data Center: https://afdc.energy.gov/fuels/electricity-locations#/find/nearest?fuel=ELEC
 - Income for Washington Counties: https://hdpulse.nimhd.nih.gov/data-portal/social/table?age=001&age_options=ageall_1&demo=00011&demo_options=income_3&race=00&race_options=race_7&sex=0&sex_options=sexboth_1&socialtopic=030&socialtopic_options=social_6&statefips=53&statefips_options=area_states
