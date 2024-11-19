@@ -1,7 +1,9 @@
 # FINAL_Project_1_T3
 Group 3 Members: Oana Wright, Frank Guerra, Zach Hooks, Aislinn Yeidel, Brian Hart
 
-- Overview - Group 3 used a data set from Washington consisting of population data for Electric Vehicles in the state. We then analyzed the following considerations:
+## Overview 
+- Group 3 used a data set from Washington consisting of population data for Electric Vehicles in the state. We then analyzed the following considerations:
+  
   - I. Popularity of EV Models & Correlation between EV count per model and electric range
   - II. Correlation of EV count per county and median income
   - III. Correlation of EV count per county and population size
@@ -9,7 +11,7 @@ Group 3 Members: Oana Wright, Frank Guerra, Zach Hooks, Aislinn Yeidel, Brian Ha
   - V. Correlation of EVs by city & EV charge stations by city
   - VI. Trend of EV purchase activity over the past 15 years (2010-2024)
 
-- Findings
+## Findings
   - I. Popularity of EV models and Correlation of EVs and Electric Range
     - After looking at all EV Make+Model registered in the State of Washington and making a histogram of the EV count per Make+Model it can be conluded that Tesla Model Y and Model 3 are at the top of the list, making more than 50% of the top 15 popular cars.
     - The Make+Model count was then correlated with the Average Electric Range. For that a summary statics was conducted to make sure the the standard error was less than 0.1. The correlation between the Average Electric Range and Make+Model count resulted in an r^2 value of 0.22. While it's not very high, 22% suggests that the model explains some variability, but there’s a significant amount of unexplained variance (78%). This means other factors or variables not included in the model may play a role in influencing the "popularity" of EVs.
@@ -43,7 +45,7 @@ This rapid expansion likely stems from several factors: technological advancemen
 
 
 
-Data Sources:
+## Data Sources:
 - Electric Vehicle Population Data: https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69
 - Electric Vehicle Title and Registration Activity: https://catalog.data.gov/dataset/electric-vehicle-title-and-registration-activity/resource/d045f505-3b06-4471-953c-1a754c295a9c
 - Alternative Fuels Data Center: https://afdc.energy.gov/fuels/electricity-locations#/find/nearest?fuel=ELEC
